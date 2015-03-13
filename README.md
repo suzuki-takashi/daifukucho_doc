@@ -23,7 +23,7 @@
   
 ライセンス
 ----------
-Copyright &copy;  ![Alt text](http://suzukitakashi.net/wp-content/uploads/tcd-w/footer-image.png)  
+Copyright &copy; IT & Strategy  
 Distributed under the [MIT License][mit].
  
 [MIT]: http://www.opensource.org/licenses/mit-license.php
